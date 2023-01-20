@@ -1,2 +1,4 @@
 When a person chooses an option for nightmare You wake up early, and you search the house or you go back to sleep?
-You decided to choose the option to search the house. When you search the house 
+You decided to choose the option to search the house. When you search the house you hear something running through your house like a beast, it attacks and you die.
+But, when the person chooses the option to go back to sleep You dream about being rich, you have a car collection in your garage, there's a homeless man in front of you, do you give him the money or you just leave.
+When the person chooses the option to leave you leave the homeless man and go back to your house, then a debt collector knocks on your door, he collects all your money and your left broke.
