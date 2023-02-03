@@ -3,4 +3,4 @@
 ---
 [Nightmare]()
 or
-[Dream](dream-options.md)
+[Dream](dream/dream-options.md)
