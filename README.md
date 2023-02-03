@@ -6,4 +6,4 @@ Click [here](sleep.md) to begin!
 
 Click [here](https://docs.google.com/drawings/d/1mru0cwkl8yTyK9iuR4uuvUAwAydsNGV7O29EKW5YFA4/edit) to see the diagram of this CYOA!
 
-Made by [Danir]() and [Natasha]()
+Made by [Danir](https://github.com/danirk1308) and [Natasha](https://github.com/natashas1525)
